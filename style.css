@@ -82,7 +82,7 @@ nav ul li a {
   display: block;
   padding: 10px 15px;
   text-decoration: none;
-  color: #000;
+  color: white;
 }
 
 .dropdown-content {
@@ -111,4 +111,5 @@ nav ul li a {
 .dropbtn {
   cursor: pointer;
 }
+
 

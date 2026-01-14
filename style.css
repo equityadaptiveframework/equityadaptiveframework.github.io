@@ -5,7 +5,7 @@ body {
     background: #f9f9f9;
     color: #222;
     margin: 0 auto;
-    padding: 1rem;
+    padding: 2rem 4rem;
           /* Keeps lines readable on large screens */
     font-size: 1.05rem;
     line-height: 1.6;
@@ -125,6 +125,7 @@ nav ul li a {
 .dropbtn {
   cursor: pointer;
 }
+
 
 
 

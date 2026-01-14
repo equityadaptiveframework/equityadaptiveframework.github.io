@@ -4,6 +4,8 @@ body {
     line-height: 1.5;
     background: #f9f9f9;
     color: #222;
+    margin: 0;
+    padding: 0;
 
 .container {
     width: 90%;
@@ -108,6 +110,7 @@ nav ul li a {
 .dropbtn {
   cursor: pointer;
 }
+
 
 
 

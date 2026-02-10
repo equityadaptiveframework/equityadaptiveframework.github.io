@@ -145,6 +145,21 @@ nav ul li a {
   cursor: pointer;
   opacity: 0.6;
 }
+.mirror-banner .demand-line {
+  font-weight: 700;
+  color: #8b5a00;           /* darker gold for emphasis */
+  display: block;
+  margin: 0.8rem 0 0.6rem;
+  font-size: 1.05rem;
+}
+
+.mirror-banner .key-statement {
+  font-style: italic;
+  font-weight: 600;
+  color: #332600;
+  display: block;
+  margin: 0.6rem 0;
+}
 
 
 

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://equityadaptiveframework.dpdns.org/</loc>
+    <loc>https://eaf.dpdns.org/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://equityadaptiveframework.dpdns.org/author's-note.html</loc>
+    <loc>https://eaf.dpdns.org/author's-note.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://equityadaptiveframework.dpdns.org/donations.html</loc>
+    <loc>https://eaf.dpdns.org/donations.html</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://equityadaptiveframework.dpdns.org/legal.html</loc>
+    <loc>https://eaf.dpdns.orgg/legal.html</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://equityadaptiveframework.dpdns.org/projects.html</loc>
+    <loc>https://eaf.dpdns.org/projects.html</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://equityadaptiveframework.dpdns.org/case_library.html</loc>
+    <loc>https:/eaf.dpdns.orgg/case_library.html</loc>
     <priority>0.9</priority>
   </url>
 </urlset>
